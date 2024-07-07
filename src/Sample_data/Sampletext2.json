@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Atomic Structure",
+    "description": "this is sample description.this will allows you to get an clear idea",
+    "type":"PDF",
+    "thumbnail": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+  },
+  {
+    "name": "Atomic Structure",
+    "description": "this is sample description",
+    "type":"PDF",
+    "thumbnail": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+  },
+    {
+    "name": "Atomic Structure",
+    "description": "this is sample description",
+    "type":"PDF",
+    "thumbnail": "https://www.youtube.com/watch?v=QK8mJJJvaes"
+  }
+    ]
